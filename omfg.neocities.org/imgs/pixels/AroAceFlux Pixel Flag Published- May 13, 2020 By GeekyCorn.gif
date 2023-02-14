@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404!! page not found!! omfg!!!!!!!!</title>
+
+  <style>
+body {
+background-color:#ffc7d5;
+background-image: url("https://omfg.neocities.org/archive/bgs/528.gif");
+background-repeat: repeat;
+font-family: sans serif, verdana;
+color: #ffffff;
+font-size: 28px;
+letter-spacing: 1px;
+line-height: 25px;
+cursor: url("https://omfg.neocities.org/archive/pokemon/tumblr_inline_mg28ikBqG91qid2nw.gif"), auto;
+}
+a:link {
+  color: #996600;
+  text-decoration: underline;
+}
+a:visited {
+  color: #996600 ;
+  text-decoration: underline;
+}
+a:hover {
+  color: #cc6633;
+  text-decoration: underline overline;
+  cursor: url("https://omfg.neocities.org/archive/pokemon/tumblr_inline_mg28ikBqG91qid2nw.gif"), auto;
+}
+</style>
+  </head>
+  <body>
+
+    <div id="left">
+    </div>
+    <div id="right">
+    </div>
+
+
+
+
+<div align="center">
+
+<br><br><br><br>
+404 Error, Page Not Found!<BR>
+     omfg!!!!!!!<P>
+
+
+<a href="https://omfg.neocities.org">you should go home</a><BR>
+
+  <img src="https://omfg.neocities.org/archive/misc-animations/pegasusbig.gif"><P>
+</p>
+
+<img src="https://omfg.neocities.org/archive/misc-animations/2.gif">
+
+<img src="https://omfg.neocities.org/archive/misc-animations/Catfish.gif">
+
+
+<img src="https://omfg.neocities.org/archive/misc-animations/ufobar.gif">
+
+<img src="https://omfg.neocities.org/archive/misc-animations/alien_hiker_bf16.gif">
+
+<img src="https://omfg.neocities.org/archive/misc-animations/dancingalien.gif">
+
+<img src="https://omfg.neocities.org/imgs/parsnip.png">
+<img src="https://omfg.neocities.org/archive/misc-animations/crocodile.gif">
+
+
+ 
+</div>
+
+  </body>
+</html>
