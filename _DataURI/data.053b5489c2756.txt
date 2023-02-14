@@ -1,1 +1,0 @@
-chrome-extension://oebpmncolmhiapingjaagmapififiakb/scripts/content-script.js
